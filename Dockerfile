@@ -1,5 +1,5 @@
 FROM node:8-alpine
-LABEL maintainer Yuki Takei <yuki@weseek.co.jp>
+LABEL maintainer coord.e <me@coord-e.com>
 
 ADD https://github.com/progrium/entrykit/releases/download/v0.4.0/entrykit_0.4.0_Linux_x86_64.tgz /entrykit.tgz
 ADD https://raw.githubusercontent.com/vishnubob/wait-for-it/master/wait-for-it.sh /bin/wait-for-it
