@@ -1,3 +1,14 @@
+growi-docker-standalone
+=======================
+
+[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/coord-e/growi-docker-standalone)
+
+This is the fork of [growi-docker](https://github.com/weseek/growi-docker).
+I wanted to deploy [growi](https://growi.org/), the very cool wiki system, to the [now.sh](https://zeit.co/now). However, now doesn't support docker-compose. So I created this fork.
+
+The content below is nothing changed from the README of [growi-docker](https://github.com/weseek/growi-docker)
+
+----------------------------------------------
 
 growi-docker
 ===========
